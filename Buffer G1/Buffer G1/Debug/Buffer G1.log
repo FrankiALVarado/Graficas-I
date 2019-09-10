@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\frank\onedrive\escritorio\buffer g1\buffer g1\cbuffer.h(485): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  c:\users\frank\onedrive\escritorio\buffer g1\buffer g1\cbuffer.h(479): note: durante la compilación de la función miembro de plantilla clase de 'void CBuffer<unsigned char>::copyBuffer(CBuffer<unsigned char> &)'
+  c:\users\frank\onedrive\escritorio\buffer g1\buffer g1\source.cpp(18): note: vea la referencia a la creación de instancias de plantilla de función 'void CBuffer<unsigned char>::copyBuffer(CBuffer<unsigned char> &)' que se está compilando
+  c:\users\frank\onedrive\escritorio\buffer g1\buffer g1\source.cpp(9): note: vea la referencia a la creación de instancias de plantilla clase de 'CBuffer<unsigned char>' que se está compilando
+c:\users\frank\onedrive\escritorio\buffer g1\buffer g1\cbuffer.h(489): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\frank\onedrive\escritorio\buffer g1\buffer g1\cbuffer.h(491): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\frank\onedrive\escritorio\buffer g1\buffer g1\cbuffer.h(493): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\frank\onedrive\escritorio\buffer g1\buffer g1\cbuffer.h(495): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\frank\onedrive\escritorio\buffer g1\buffer g1\cbuffer.h(210): warning C4715: 'CBuffer<unsigned char>::getBuffer': no todas las rutas de acceso de control devuelven un valor
+  Buffer G1.vcxproj -> C:\Users\frank\OneDrive\Escritorio\Buffer G1\Debug\Buffer G1.exe
